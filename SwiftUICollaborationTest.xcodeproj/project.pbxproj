@@ -11,6 +11,7 @@
 		1DB95B332642B4BB00BB11BB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DB95B322642B4BB00BB11BB /* ContentView.swift */; };
 		1DB95B352642B4BB00BB11BB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DB95B342642B4BB00BB11BB /* Assets.xcassets */; };
 		1DB95B382642B4BB00BB11BB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DB95B372642B4BB00BB11BB /* Preview Assets.xcassets */; };
+		1DB95B412642B67600BB11BB /* CounterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DB95B402642B67600BB11BB /* CounterView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		1DB95B342642B4BB00BB11BB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1DB95B372642B4BB00BB11BB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1DB95B392642B4BB00BB11BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1DB95B402642B67600BB11BB /* CounterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				1DB95B302642B4BB00BB11BB /* SwiftUICollaborationTestApp.swift */,
 				1DB95B322642B4BB00BB11BB /* ContentView.swift */,
+				1DB95B402642B67600BB11BB /* CounterView.swift */,
 				1DB95B342642B4BB00BB11BB /* Assets.xcassets */,
 				1DB95B392642B4BB00BB11BB /* Info.plist */,
 				1DB95B362642B4BB00BB11BB /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				1DB95B332642B4BB00BB11BB /* ContentView.swift in Sources */,
 				1DB95B312642B4BB00BB11BB /* SwiftUICollaborationTestApp.swift in Sources */,
+				1DB95B412642B67600BB11BB /* CounterView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
